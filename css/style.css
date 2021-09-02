@@ -1,0 +1,51 @@
+.hp_perm {
+  display: flex;
+  justify-content: space-between;
+  color: rgb(0, 39, 126);
+}
+
+.hp_perm_inc {
+  margin: 20px auto 0 20px;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.hp_perm_items {
+  display: flex;
+  justify-content: right;
+  margin-top: 20px;
+}
+
+.hp_perm_items_item {
+  padding: 5px;
+  margin: auto 10px;
+  font-size: 13px;
+  font-weight: 600;
+  color: rgb(0, 39, 126);
+  text-decoration: none;
+  display: inline-block;
+}
+
+.hp_content {
+  position: relative;
+}
+
+.hp_content_img {
+  width: 50%;
+  margin-left: 50%;
+  position: relative;
+  top: 100px;
+}
+
+.hp_content_cc {
+  font-size: 60px;
+  font-weight: 500;
+  margin-top: -35px;
+}
+
+.hp_content_bg {
+  width: 75%;
+  height: 180px;
+  background: rgb(0, 39, 126);
+  margin-top: -20px;
+}
